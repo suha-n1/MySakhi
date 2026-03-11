@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "108859930111",
+    "firebase_url": "https://mysakhi-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mysakhi-app",
+    "storage_bucket": "mysakhi-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108859930111:android:5e50759be3c65bf08de3ca",
+        "android_client_info": {
+          "package_name": "com.mysakhi.mysakhi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa_qLJ1oYR1KncV7XLjzUOM2SXH3101ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
